@@ -31,10 +31,10 @@ export default {
         surface: '#f8fafc',
         error: '#ef4444',
         warning: '#f59e0b',
-        success: '#10b981',
+success: '#10b981',
       },
       fontFamily: {
-        sans: ['Inter', 'system-ui', 'sans-serif'],
+        sans: ['Open Sans', 'system-ui', 'sans-serif'],
       },
     },
   },
